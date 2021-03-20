@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShoppingList</string>
+    <string name="foods_drinks"><![CDATA[Foods & Drinks]]></string>
+</resources>
